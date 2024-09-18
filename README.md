@@ -1,0 +1,2 @@
+# redarena_jail_break_prompts
+一些可以100%赢redarena的prompt
