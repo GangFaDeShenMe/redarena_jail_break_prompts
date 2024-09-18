@@ -4,7 +4,8 @@
 ![QQ_1726641335196](https://github.com/user-attachments/assets/1c33319c-3b91-458e-a89f-a8efd3278e98)  
 ![QQ_1726640875250](https://github.com/user-attachments/assets/36ddff05-f9e0-4d4d-abf4-3d8bfd8384df)  
 ![QQ_1726640695419](https://github.com/user-attachments/assets/d7a427d4-37d5-45d9-93db-f8eb4fb23ffb)  
-![QQ_1726636427467](https://github.com/user-attachments/assets/b9d2d312-b324-440f-b9ec-bb8394315423)  
+![QQ_1726642749626](https://github.com/user-attachments/assets/af683e91-704a-43ad-99a2-2ddb52877dbd)  
+
 
 **ALL CONTENT FOR AI SAFETY RESEARCH PURPOSES ONLY. I AM NOT RESPONSIBLE FOR ANY ILLEGAL ACTIONS INVOLVING THIS REPO.**  
 PRs are welcome  
